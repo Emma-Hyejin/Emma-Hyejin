@@ -4,7 +4,7 @@
 
 🌱I'm currently learning Front-End skills <br><br>
 🍋Please visit my another site
-[![티스토리 링크](https://img.shields.io/badge/kg--dlife-Tistory-ff69b4)]([https://kg-tistory.com](https://kg-dlife.tistory.com/)<br><br>
+[![티스토리 링크](https://img.shields.io/badge/kg--dlife-Tistory-ff69b4)]([https://kg-dlife.tistory.com/]<br><br>
 <div text align="center">
 ✨My SKills<br>
 <br>
