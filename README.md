@@ -3,7 +3,7 @@
 <br>
 
 🌱I'm currently learning Front-End skills <br>
-:lemon:Please visit my another site : https://kg-dlife.tistory.com/ <br><br>
+🍋Please visit my another site : https://kg-dlife.tistory.com/ <br><br>
 <div text align="center">
 ✨My SKills<br>
 <br>
@@ -17,9 +17,10 @@
 </div> 
 
 ---
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjd191058)](https://solved.ac/cjd191058)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emma-Hyejin&layout=compact&theme=panda&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emma-Hyejin&layout=compact&theme=panda&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjd191058)](https://solved.ac/cjd191058)
 
 
 
