@@ -21,7 +21,20 @@ Welcome to my GitHub Profile 🌱
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"> 
 
 
+### my Projects
+> [FarmingSoon](https://github.com/farmingsoon/fe)
+<p>
+  <img src="https://github.com/Emma-Hyejin/Emma-Hyejin/assets/110151638/120a7e65-c6a3-429e-a0e1-7795a4435cb0"  width="50%" />
+</p>
 
+<br/>
+
+> [TripTIrp](https://github.com/TRIP-Side-Project)
+<p>
+ <img src="https://github.com/Emma-Hyejin/Emma-Hyejin/assets/110151638/9691a1d8-a8d8-4e50-879d-e01c24dfbcc6" width="50%"/>
+</p>
+
+<br/>
 
 ## Ongoing Daily Coding
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emma-Hyejin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
