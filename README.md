@@ -3,49 +3,50 @@
 
 Welcome to my GitHub Profile 🌱
 
+<br>
+
+<p align="center">
  <img src="https://github.com/Emma-Hyejin/Emma-Hyejin/assets/110151638/adf971c5-5f35-412e-be76-d576e5992e0f"/>
-
-🪼 FrontEnd-Engineer 
-
-🪼 Contact 
-    Email : cjd191058@naver.com 
-<br><br>
-
-
+</p>
+<p align="center">🪼 FrontEnd-Engineer </p>
+<p align="center">🪼 Contact 
+    Email : cjd191058@naver.com </p>
+ 
+<br>
+<br>
 
 #### ✨ My SKills
 <img src="https://github.com/Emma-Hyejin/Emma-Hyejin/assets/110151638/7e5881a5-2688-4fc8-b1a9-ebcb8654725e" />
 
 
 #### ✨ Ready to Learn
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"> 
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=%white)
+![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-### my Projects
-> [FarmingSoon](https://github.com/farmingsoon/fe)
-<p>
-  <img src="https://github.com/Emma-Hyejin/Emma-Hyejin/assets/110151638/120a7e65-c6a3-429e-a0e1-7795a4435cb0"  width="50%" />
-</p>
-
-<br/>
-
-> [TripTIrp](https://github.com/TRIP-Side-Project)
-<p>
- <img src="https://github.com/Emma-Hyejin/Emma-Hyejin/assets/110151638/9691a1d8-a8d8-4e50-879d-e01c24dfbcc6" width="50%"/>
-</p>
 
 <br/>
 
 ## Ongoing Daily Coding
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emma-Hyejin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=Emma-Hyejin&show_icons=true&theme=radical">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma-Hyejin&layout=compact&theme=radical"> 
+</div>
 
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjd191058)](https://solved.ac/cjd191058)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emma-Hyejin&layout=compact&theme=panda&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emma-Hyejin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
+<br>
+
+<p style="height: 150px;" align="center">
+  <img style="height: 150px;" src="https://github-readme-activity-graph.vercel.app/graph?username=Emma-Hyejin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph">
+</p>
+
+<br>
+
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjd191058)](https://solved.ac/cjd191058)-->
 
 
 
